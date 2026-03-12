@@ -40,7 +40,7 @@ Biotechnologist working at the intersection of bioinformatics, machine learning,
 | Project | Description | Status |
 |---|---|---|
 | [UTN_CURSO_DE](https://github.com/LucasArg00/UTN_CURSO_DE) | Data pipeline design and implementation — final project for the Data Engineering course at UTN | Public |
-| nextflow_genomic_ml | Nextflow pipeline integrating genomic analysis with ML models | 🔧 In progress |
+| [nextflow_genomic_ml](https://github.com/LucasArg00/nextflow_genomic_ml) | Nextflow pipeline integrating genomic analysis with ML models | 🔧 In progress |
 | Microarray Probe Visualization App | Interactive DASH app for visualizing Illumina probe distribution over hg19 cytobands, built for a clinical bioinformatics team | Private |
 | Financial Automation Workflow | N8N + OCR + LLM pipeline for automated bank statement processing and expense categorization | Private |
 
